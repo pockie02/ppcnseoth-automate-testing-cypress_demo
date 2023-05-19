@@ -1,1 +1,5 @@
-# ppcnseoth-automate-testing-cypress_demo
+# Automate Testing Cypress
+
+
+Run :  npx cypress open
+
